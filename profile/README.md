@@ -20,7 +20,7 @@ To investigate phenomena we use first-principal theoretical methods
 
 You can request to modify any developed software according to your organization needs.
 
-Delta Science is also developing interactive courses for students interested to enhance their experience in computational quantum chemistry
+Delta Science is also developing [interactive courses](https://www.dsedu.org/courses) for students interested to enhance their experience in computational quantum chemistry
 
 - Introduction to Density Functional Theory
 - Introduction to Quantum Espresso
