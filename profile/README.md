@@ -1,7 +1,7 @@
 ## Delta Science Institute
 
 
-Delta Science, the U.S. nonprofit research institute in academy (Federal Tax ID: 92-1618476), provides basic research in physics and chemistry. 
+Delta Science, the U.S. nonprofit research institute in academy, provides basic research in physics and chemistry. 
 
 The developing topics are 
 
