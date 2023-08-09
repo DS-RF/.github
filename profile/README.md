@@ -12,10 +12,10 @@ The developing topics are
 
 To investigate phenomena we use first-principal theoretical methods 
 
-Density Functional Theory (DFT);
-GW approximation; 
-Bethe-Salpeter approach;
-perturbation theory; 
-ab-initio molecular dynamics.
+-  Density Functional Theory (DFT);
+-  GW approximation; 
+-  Bethe-Salpeter approach;
+-  perturbation theory; 
+-  ab-initio molecular dynamics.
 
 You can request to modify any developed software according to your organization needs.
